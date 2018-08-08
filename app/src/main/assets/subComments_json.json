@@ -1,0 +1,60 @@
+[
+  {
+    "by": "floatrock",
+    "id": 17710556,
+    "kids": [
+      17712174,
+      17710636,
+      17711944,
+      17710685,
+      17711073,
+      17710598,
+      17710880,
+      17710996
+    ],
+    "parent": 17710425,
+    "text": "Capital costs vs. marginal costs.<p>You&#x27;re going to build a $100M desalination plant and run it for three hours a day?  That&#x27;s a ton of money sitting idle most of the day, far more than what is recovered with zero operating costs.<p>(This is called the utilization factor -- how long a piece of equipment is used vs. staying idle)<p>Ideally you want useful processes with low capital costs and expensive marginal&#x2F;energy costs.  Desalination is not one of those.",
+    "time": 1533674391,
+    "type": "comment"
+  },
+  {
+    "by": "rwcarlsen",
+    "id": 17710509,
+    "kids": [
+      17710574,
+      17712392,
+      17713028
+    ],
+    "parent": 17710347,
+    "text": "Low&#x2F;negative prices (caused largely by various regulation&#x2F;policies) have been putting a lot of economic pressure on existing nuclear power generation - sometimes causing it to close [1].  Generation that is largely replaced by natural gas plants.  So maybe this very non-free-market state is actually <i>not</i> helping make forward progress on what many would consider to be one of the most important issues relating to energy - climate change.<p>[1] <a href=\"https:&#x2F;&#x2F;www.forbes.com&#x2F;sites&#x2F;jamesconca&#x2F;2016&#x2F;05&#x2F;16&#x2F;natural-gas-is-replacing-nuclear-power-not-renewables&#x2F;#4215755ccdb6\" rel=\"nofollow\">https:&#x2F;&#x2F;www.forbes.com&#x2F;sites&#x2F;jamesconca&#x2F;2016&#x2F;05&#x2F;16&#x2F;natural-g...</a>",
+    "time": 1533674149,
+    "type": "comment"
+  },
+  {
+    "by": "adrianN",
+    "id": 17713240,
+    "parent": 17713230,
+    "text": "Yes they can because they don&#x27;t cause air pollution in cities. Air quality standards are only getting stricter.",
+    "time": 1533703068,
+    "type": "comment"
+  },
+  {
+    "by": "psergeant",
+    "id": 17711826,
+    "kids": [
+      17711937
+    ],
+    "parent": 17711741,
+    "text": "But also: consumers with Powerwalls and other home storage options.",
+    "time": 1533684070,
+    "type": "comment"
+  },
+  {
+    "by": "caf",
+    "id": 17712196,
+    "parent": 17711749,
+    "text": "At least for the specific case of washing you can get most of the benefit by moving to a time-of-use tariff and scheduling the washing machine to run during the off peak time.<p>(Washing machines do seem to use a surprisingly large amount of energy, particularly the ones that heat the water internally).",
+    "time": 1533688194,
+    "type": "comment"
+  }
+]

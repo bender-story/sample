@@ -1,0 +1,99 @@
+[
+  {
+    "by": "DoctorOetker",
+    "id": 17710425,
+    "kids": [
+      17710556,
+      17711185,
+      17710802,
+      17710519,
+      17711684,
+      17710472,
+      17712601,
+      17710546,
+      17710619,
+      17711539,
+      17710505,
+      17710533,
+      17711773,
+      17711733,
+      17710559,
+      17710500,
+      17710527,
+      17710627,
+      17711156,
+      17710624,
+      17712453,
+      17712436,
+      17712380,
+      17710496,
+      17711005
+    ],
+    "parent": 17709922,
+    "text": "I don&#x27;t truly understand this &quot;problem&quot;. I understand storing the energy in batteries is currently very expensive economically and materially.<p>However I believe there are plenty of &quot;goods&quot; (irrespective of if they are bulk materials, or partially processed products) which have a high processing energy per volume ratio (this does not need to be recoverable stored energy).<p>Allow me to give an example: currently we have a drought in Belgium (or at least Flanders). We are not landlocked, there is plenty of water in the sea. Desalination is energy intensive. Instead of only looking at energy storage, why can&#x27;t we increase the processing capacity (more desalination sites capable of working in parallel), and desalinate say sea water during the energy flood? I don&#x27;t expect this to be an ideal real world example, only a pattern for identifying such examples: any product (could be composite parts, or bulk material) which is relatively compact and has some high energy per product volume processinng step. Just do the process (desalination, welding some part to another part...) when the sun shines, and store them for later.<p>Products with very high <i>step energy density</i> are good candidates for storing, and could help flatten daily variations, and perhaps even seasonal variations!<p>Now some companies would prefer avoiding risk if they don&#x27;t have guaranteed orders far enough into the future, then perhaps there should be a market for insurance or loans, so that the company is encouraged to take the risk, instead of wasting the cheap energy...",
+    "time": 1533673625,
+    "type": "comment"
+  },
+  {
+    "by": "maerF0x0",
+    "id": 17710347,
+    "kids": [
+      17710509,
+      17710913,
+      17711711,
+      17710409,
+      17710473,
+      17711753,
+      17710434,
+      17712089,
+      17710531,
+      17710828
+    ],
+    "parent": 17709922,
+    "text": "&gt; It’s left the utilities complaining that they can’t earn the returns they expected for their investment in generation capacity.<p>Good. That&#x27;s a well functioning market economy. Those who make poor investment choices need to feel the sting of losses else the market fails to work correctly.",
+    "time": 1533673275,
+    "type": "comment"
+  },
+  {
+    "by": "bit_logic",
+    "id": 17713230,
+    "kids": [
+      17713240
+    ],
+    "parent": 17709922,
+    "text": "A carbon tax combined with excess green energy could cause some unexpected results.  Currently, most assume that EV cars are the future.  However, there are companies working on processes that can convert CO2 from the air + energy + water into synthetic fuel.  There are already working examples of this such as the Canadian company Carbon Engineering.  If the energy is green (such as excess solar&#x2F;wind) this fuel would be basically carbon neutral and exempt from any carbon tax.  The process would be economically viable because the carbon tax would raise the price of oil from traditional fossil sources.  But the increased price of oil would make a carbon neutral synthetic process like this viable at the same time.<p>If this happens, the EV car becomes much less competitive.  From a pure efficiency view, EV is still much more efficient. But there is a lot of existing infrastructure supporting carbon fuel and billions of cars.  This synthetic fuel would immediately fit into that.  If there&#x27;s a heavy carbon tax, can EV complete successfully against a carbon neutral synthetic fuel?",
+    "time": 1533702935,
+    "type": "comment"
+  },
+  {
+    "by": "WalterBright",
+    "id": 17711741,
+    "kids": [
+      17711826,
+      17712438
+    ],
+    "parent": 17709922,
+    "text": "I&#x27;ll suggest again that the solution to this is to charge variable prices to the consumer based on the supply. For example, I pay exactly the same rate, 24&#x2F;7. Of course this will result in a mismatch of supply and demand.<p>A <i>lot</i> of electricity demand can be shifted to when the supply is cheapest.<p>When the supply varies wildly, like solar and wind do, there&#x27;s a giant impedance mismatch when demand is charged a fixed price.",
+    "time": 1533683172,
+    "type": "comment"
+  },
+  {
+    "by": "notatoad",
+    "id": 17711749,
+    "kids": [
+      17712196
+    ],
+    "parent": 17709922,
+    "text": "This seems like an opportunity for all that currently-useless &quot;smart home&quot; tech that companies are so eager to sell.  I don&#x27;t need smartphone notifications from my internet connected washing machine to tell me when the laundry is done, because i know when i started it.  But if i could load the washing machine and tell it to switch on when the cost of electricity dropped below a certain threshold, and it would actually save me money, then suddenly the smart home would actually be providing some value.<p>unfortunately, as far as i know not only is there no consumer tech that does this, but energy companies don&#x27;t make real-time pricing available to all but the largest consumers.",
+    "time": 1533683302,
+    "type": "comment"
+  },
+  {
+    "by": "rwcarlsen",
+    "id": 17710388,
+    "parent": 17709922,
+    "text": "Negative energy prices have been a not uncommon occurrence in various places in the US and EU for a while.  They are not necessarily a good thing.  They occur due to a combination of how generating sources are managed&#x2F;dispatched [1] and because of policies that make it possible for (some) generating facilities to still make a profit while bidding to provide electricity at a negative cost (literally paying the recipient to take the electricity).  This is not necessarily a good thing and can actually lead to increased carbon footprints of our energy generation mix along with other not necessarily good outcomes [2].<p>[1] <a href=\"https:&#x2F;&#x2F;www.eia.gov&#x2F;todayinenergy&#x2F;detail.php?id=7590\" rel=\"nofollow\">https:&#x2F;&#x2F;www.eia.gov&#x2F;todayinenergy&#x2F;detail.php?id=7590</a><p>[2] <a href=\"https:&#x2F;&#x2F;ieeexplore.ieee.org&#x2F;document&#x2F;6917222&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;ieeexplore.ieee.org&#x2F;document&#x2F;6917222&#x2F;</a>",
+    "time": 1533673455,
+    "type": "comment"
+  }
+]

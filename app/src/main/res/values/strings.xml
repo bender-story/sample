@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SampleHackerNews</string>
+
+    <string name="home_screen_head">List of Stories</string>
+    <string name="story_screen_head">Story</string>
+    <string name="network_error">Network unavailable. Please try after some time.</string>
+
+</resources>
